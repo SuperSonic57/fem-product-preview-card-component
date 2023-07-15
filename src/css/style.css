@@ -70,4 +70,12 @@ body {
   padding-bottom: 15px;
   text-transform: uppercase;
   letter-spacing: 5px;
+}
+
+.product-title {
+  padding-bottom: 15px;
+  color: hsl(212, 21%, 14%);
+  font-family: "Fraunces", serif;
+  font-weight: 700;
+  font-size: 34px;
 }/*# sourceMappingURL=style.css.map */
