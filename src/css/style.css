@@ -52,6 +52,13 @@ body {
   place-items: center;
 }
 
+@media screen and (min-width: 1440px) {
+  #component {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
 .prices {
   display: flex;
   gap: 25px;
@@ -70,6 +77,11 @@ body {
   max-width: 345px;
   border-radius: 10px;
   overflow: hidden;
+}
+@media screen and (min-width: 1440px) {
+  #component {
+    max-width: 590px;
+  }
 }
 
 #description {
