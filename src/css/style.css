@@ -59,6 +59,13 @@ body {
   }
 }
 
+@media screen and (min-width: 700px) {
+  #description {
+    display: flex;
+    align-items: center;
+  }
+}
+
 .prices {
   display: flex;
   gap: 25px;
