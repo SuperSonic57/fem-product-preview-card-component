@@ -52,7 +52,7 @@ body {
   place-items: center;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 700px) {
   #component {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -76,9 +76,10 @@ body {
   background: hsl(0, 0%, 100%);
   max-width: 345px;
   border-radius: 10px;
+  margin: 50px;
   overflow: hidden;
 }
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 700px) {
   #component {
     max-width: 590px;
   }
