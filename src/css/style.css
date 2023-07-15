@@ -56,4 +56,9 @@ body {
   background: hsl(0, 0%, 100%);
   max-width: 375px;
   border-radius: 10px;
+  overflow: hidden;
+}
+
+#description {
+  padding: 20px;
 }/*# sourceMappingURL=style.css.map */
