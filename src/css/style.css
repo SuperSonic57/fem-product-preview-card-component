@@ -47,7 +47,13 @@ img, picture, svg {
   display: block;
 }
 
+body {
+  display: grid;
+  place-items: center;
+}
+
 #component {
   background: hsl(0, 0%, 100%);
   max-width: 375px;
+  border-radius: 10px;
 }/*# sourceMappingURL=style.css.map */
