@@ -87,7 +87,7 @@ body {
 }
 
 .product-description {
-  padding-bottom: 15px;
+  padding-bottom: 25px;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -111,4 +111,16 @@ body {
   position: absolute;
   white-space: nowrap;
   width: 1px;
+}
+
+.add-to-cart {
+  border: none;
+  display: block;
+  margin: auto;
+  width: 100%;
+  height: 45px;
+  background: hsl(158, 36%, 37%);
+  border-radius: 8px;
+  color: hsl(0, 0%, 100%);
+  font-weight: 700;
 }/*# sourceMappingURL=style.css.map */
