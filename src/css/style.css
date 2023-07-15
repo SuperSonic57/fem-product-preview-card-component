@@ -55,6 +55,7 @@ body {
 .prices {
   display: flex;
   gap: 25px;
+  align-items: center;
 }
 
 #component {
@@ -89,4 +90,15 @@ body {
   padding-bottom: 15px;
   font-size: 16px;
   line-height: 1.5;
+}
+
+.prices {
+  padding-bottom: 15px;
+}
+
+.sale-price {
+  color: hsl(158, 36%, 37%);
+  font-family: "Fraunces", serif;
+  font-weight: 700;
+  font-size: 34px;
 }/*# sourceMappingURL=style.css.map */
