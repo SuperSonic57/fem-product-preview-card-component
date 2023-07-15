@@ -45,4 +45,9 @@ body {
 img, picture, svg {
   max-width: 100%;
   display: block;
+}
+
+#component {
+  background: hsl(0, 0%, 100%);
+  max-width: 375px;
 }/*# sourceMappingURL=style.css.map */
