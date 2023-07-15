@@ -58,6 +58,13 @@ body {
   align-items: center;
 }
 
+.button-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
 #component {
   background: hsl(0, 0%, 100%);
   max-width: 345px;
