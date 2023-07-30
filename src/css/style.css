@@ -150,7 +150,13 @@ body {
   color: hsl(0, 0%, 100%);
   font-weight: 700;
   cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
 }
 .add-to-cart:hover {
   background: #1c3b30;
-}/*# sourceMappingURL=style.css.map */
+}
+
+/*# sourceMappingURL=style.css.map */
